@@ -1,2 +1,11 @@
-# LM-07-2023-24
-HTML
+# UT05. HTML
+
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/9c3069b5-4058-43d5-a12f-909eff2e3c62)
+
+
+## Página principal del curso
+[VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/LM-00-2023-24)
+
+## Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
