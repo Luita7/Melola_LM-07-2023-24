@@ -1,7 +1,6 @@
 # UT05. HTML
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/9c3069b5-4058-43d5-a12f-909eff2e3c62)
-
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/76fe51a4-e980-4188-b19b-d7a3d60ccd4d)
 
 ## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/LM-00-2023-24)
