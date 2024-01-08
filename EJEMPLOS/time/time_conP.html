@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejemplo de etiqueta time</title>
+  </head>
+  <body>
+    <p>
+      <!-- Fecha simple estándar -->
+      <time datetime="2016-01-20">20 Enero 2016</time>
+    </p>
+    <p>
+      <!-- Solo año y mes -->
+      <time datetime="2016-01">Enero 2016</time>
+    </p>
+    <p>
+      <!-- Solo mes y día -->
+      <time datetime="01-20">20 Enero 2016</time>
+    </p>
+    <p>
+      <!-- Solo tiempo, horas y minutos -->
+      <time datetime="19:30">19:30</time>
+    </p>
+    <p>
+      <!-- ¡También puedes hacer segundos y milisegundos! -->
+      <time datetime="19:30:01.856">19:30:01.856</time>
+    </p>
+    <p>
+      <!-- Fecha y hora -->
+      <time datetime="2016-01-20T19:30">7.30pm, 20 Enero 2016</time>
+    </p>
+    <p>
+      <!-- Fecha y hora con desplazamiento de zona horaria -->
+      <time datetime="2016-01-20T19:30+01:00"
+        >7.30pm, 20 Enero 2016 es 8.30pm en Francia</time
+      >
+    </p>
+    <p>
+      <!-- Llamar a un número de semana específico -->
+      <time datetime="2016-W04">La cuarta semana de 2016</time>
+    </p>
+  </body>
+</html>

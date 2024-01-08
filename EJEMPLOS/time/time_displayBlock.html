@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejemplo de cambio de display</title>
+    <style>
+      time {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+      <!-- Fecha simple estándar -->
+      <time datetime="2016-01-20">20 Enero 2016</time>
+      <!-- Solo año y mes -->
+      <time datetime="2016-01">Enero 2016</time>
+      <!-- Solo mes y día -->
+      <time datetime="01-20">20 Enero 2016</time>
+      <!-- Solo tiempo, horas y minutos -->
+      <time datetime="19:30">19:30</time>
+      <!-- ¡También puedes hacer segundos y milisegundos! -->
+      <time datetime="19:30:01.856">19:30:01.856</time>
+      <!-- Fecha y hora -->
+      <time datetime="2016-01-20T19:30">7.30pm, 20 Enero 2016</time>
+      <!-- Fecha y hora con desplazamiento de zona horaria -->
+      <time datetime="2016-01-20T19:30+01:00"
+        >7.30pm, 20 Enero 2016 es 8.30pm en Francia</time
+      >
+      <!-- Llamar a un número de semana específico -->
+      <time datetime="2016-W04">La cuarta semana de 2016</time>
+  </body>
+</html>

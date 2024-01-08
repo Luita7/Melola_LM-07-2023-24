@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Imágenes , enlaces y rutas</title>
+</head>
+
+<body>
+
+    <!-- Si no pongo nada se respetan las dimensiones originales de la imagen-->
+    <!--Ruta relativa-->
+    <img alt="Logo de HTML5" src="img/html5.png">
+
+    <!-- Ruta absoluta -->
+    <img alt="Logo de HTML5" src="F:\VisualStudioWorkspace\2023-24\GH\LM-07-2023-24\EJEMPLOS\imagenesEnlacesRutas\img\html5.png\html5.png">
+
+    <!-- Ruta expresada mediante URL-->
+    <img alt="Logo de HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+
+    <!-- Si modifico una dimensión se respetan las proporciones-->
+    <img height="50px" alt="Logo de HTML5" src="img/html5.png">
+    <img width="50px" alt="Logo de HTML5" src="img/html5.png">
+
+    <!-- Si pongo ambas dimensiones puedo modificar las proporciones-->
+    <img height="300px" width="100px" alt="Logo de HTML5" src="img/html5.png">
+
+
+    <!-- Forma HTML5 para asociar imágenes con sus leyendas. Etiqueta Figure-->
+    <figure>
+        <img alt="Logo de HTML5" src="img/html5.png">
+        <figcaption>Logotipo de HTML5 con la etiqueta figure</figcaption>
+    </figure>
+
+    <!-- ENLACES: Los destino más básicos-->
+    <p><a href="https://lenguajehtml.com/html/">Esto en un enlace en la propia página</a></p>
+
+    <p><a href="https://lenguajehtml.com/html/" target="_blank">Esto en un enlace en la propia página</a></p>
+
+    <!-- Haciendo que una imagen sea enlace. Anidando etiquetas -->
+    <a href="https://lenguajehtml.com/html/"><img width="100px" alt="Logo de HTML5" src="img/html5.png"></a>
+
+
+</body>
+
+</html>
