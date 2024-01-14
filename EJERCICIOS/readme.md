@@ -25,5 +25,7 @@ Crea una página html para que se muestren unas listas como las siguientes:
 
 
 ## Ejercicio 4: tablas
+Crea una página html para que muestre una tabla como la siguiente:
 
-Próximamente...
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/828efd18-8ef6-4353-b98e-8135a256ba4d)
+
