@@ -32,3 +32,8 @@ Crea una página html para que muestre una tabla como la siguiente:
 
 ![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/828efd18-8ef6-4353-b98e-8135a256ba4d)
 
+**Pistas:**
+- Probad a usar la propiedad padding de los td y th.
+- Mirad la diferencia al poner un texto en un td y poner el mismo texto en un th ¿cuál centra?
+- Por otro lado si usáis td, probad con la propiedad text-align: center que hemos en el ejercicio de centrado de imágenes.
+
