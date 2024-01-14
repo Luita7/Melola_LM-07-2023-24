@@ -14,13 +14,15 @@ A continuación la captura de la página html con la receta "tuneada" vista en c
 
 Todas las imágenes deberán estar centradas como en el dibujo, serán locales y enlazarán con tres webs diferentes que se abrirán en una nueva pestaña.
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/1815e037-5c85-43b7-8d06-3503b40eee54)
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/facf343f-e94d-4e89-9da4-08ef984bba76)
+
 
 ## Ejercicio 3: listas
 
 Crea una página html para que se muestren unas listas como las siguientes:
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/431a719b-972a-48e1-869a-93cc8ebe3438)
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/b5262397-aae6-4582-ae0c-782fae70b052)
+
 
 ## Ejercicio 4: tablas
 
