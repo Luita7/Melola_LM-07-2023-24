@@ -21,7 +21,7 @@ Todas las imágenes deberán estar centradas como en el dibujo, serán locales y
 
 Crea una página html para que se muestren unas listas como las siguientes:
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/b5262397-aae6-4582-ae0c-782fae70b052)
+<img src="https://github.com/profeMelola/LM-07-2023-24/assets/91023374/b5262397-aae6-4582-ae0c-782fae70b052" width="500px"/>
 
 
 ## Ejercicio 4: tablas
