@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tablas en HTML</title>
+    <link rel="icon" href="icon_tabla.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <!-- Tabla simple, sólo filas y celdas -->
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Dirección</th>
+            <th>Teléfono</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>Ana</td>
+            <td>Apellidos de Ana</td>
+            <td>Dirección de Ana</td>
+            <td>111 111 111</td>
+            <td>ana@daw.es</td>
+        </tr>
+        <tr>
+            <td>Pepe</td>
+            <td>Apellidos de Pepe</td>
+            <td>Dirección de Pepe</td>
+            <td>222 222 222</td>
+            <td>pepe@daw.es</td>
+        </tr>
+        <tr>
+            <td>Cris</td>
+            <td>Apellidos de Cris</td>
+            <td>Dirección de Cris</td>
+            <td>333 333 333</td>
+            <td>cris@daw.es</td>
+        </tr>
+        <tr>
+            <td>Curro</td>
+            <td>Apellidos de curro</td>
+            <td>Dirección de curro</td>
+            <td>444 444 444</td>
+            <td>curro@daw.es</td>
+        </tr>
+
+    </table>
+
+    <!-- Tabla con estructura completa -->
+    <table>
+        <colgroup>
+            <col span="3" style="background-color: pink">
+            <col style="background-color: lightblue">
+            <col style="background-color: lightgreen">
+        </colgroup>
+        <caption>Alumnos matriculados</caption>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>Email</th>
+            </tr>
+            <tr>
+                <td>Ana</td>
+                <td>Apellidos de Ana</td>
+                <td>Dirección de Ana</td>
+                <td>111 111 111</td>
+                <td>ana@daw.es</td>
+            </tr>
+            <tr>
+                <td>Pepe</td>
+                <td>Apellidos de Pepe</td>
+                <td>Dirección de Pepe</td>
+                <td>222 222 222</td>
+                <td>pepe@daw.es</td>
+            </tr>
+            <tr>
+                <td>Cris</td>
+                <td>Apellidos de Cris</td>
+                <td>Dirección de Cris</td>
+                <td>333 333 333</td>
+                <td>cris@daw.es</td>
+            </tr>
+            <tr>
+                <td>Curro</td>
+                <td>Apellidos de curro</td>
+                <td>Dirección de curro</td>
+                <td>444 444 444</td>
+                <td>curro@daw.es</td>
+            </tr>
+            </tbody>
+        <tfoot>
+            <tr>
+                <td>Pie de la tabla donde pongo más texto para que se vea como crecen</td>
+            </tr>
+        </tfoot>
+
+
+    </table>
+
+    <table>
+        <caption>HORARIO DE CLASE CURSO 2018-2019</caption>
+        <thead>
+            <tr>
+                <th>HORAS</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miércoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8:00</td>
+                <td rowspan="2">Matemáticas</td>
+                <td>Lengua</td>
+                <td>Inglés</td>
+                <td colspan="2">Ciencias</td>
+            </tr>
+            <tr>
+                <td>9:00</td>
+                <td>Historia</td>
+                <td>Ciencias</td>
+                <td>Matemáticas</td>
+                <td>Lengua</td>
+            </tr>
+            <tr>
+                <td>10:00</td>
+                <th colspan="5">RECREO</th>
+            </tr>
+            <tr>
+                <td>10:30</td>
+                <td>Inglés</td>
+                <td rowspan="2">Ciencias</td>
+                <td>Matemáticas</td>
+                <td>Lengua</td>
+                <td>Historia</td>
+            </tr>
+            <tr>
+                <td>11:30</td>
+                <td>Historia</td>
+                <td>Ciencias</td>
+                <td>Matemáticas</td>
+                <td>Inglés</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
