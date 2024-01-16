@@ -2,6 +2,8 @@
 
 ![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/76fe51a4-e980-4188-b19b-d7a3d60ccd4d)
 
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/666088ae-93d8-4bb2-9a6d-ee2cec9f470f)
+
 ## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/LM-00-2023-24)
 
