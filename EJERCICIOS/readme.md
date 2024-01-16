@@ -37,3 +37,8 @@ Crea una página html para que muestre una tabla como la siguiente:
 - Mirad la diferencia al poner un texto en un td y poner el mismo texto en un th ¿cuál centra?
 - Por otro lado si usáis td, probad con la propiedad text-align: center que hemos en el ejercicio de centrado de imágenes.
 
+## Ejercicio 5: formularios
+Crea una página html que muestre el siguiente formulario:
+
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/42bd1968-b73e-411f-8f5f-aeb7ebb5ab38)
+
