@@ -14,14 +14,26 @@ A continuación la captura de la página html con la receta "tuneada" vista en c
 
 Todas las imágenes deberán estar centradas como en el dibujo, serán locales y enlazarán con tres webs diferentes que se abrirán en una nueva pestaña.
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/1815e037-5c85-43b7-8d06-3503b40eee54)
+<img src="https://github.com/profeMelola/LM-07-2023-24/assets/91023374/facf343f-e94d-4e89-9da4-08ef984bba76" width="600px"/>
+
 
 ## Ejercicio 3: listas
 
 Crea una página html para que se muestren unas listas como las siguientes:
 
-![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/431a719b-972a-48e1-869a-93cc8ebe3438)
+<img src="https://github.com/profeMelola/LM-07-2023-24/assets/91023374/b5262397-aae6-4582-ae0c-782fae70b052" width="600px"/>
+
+**Pistas:** para cambiar los marcadores de las listas:
+- Desordenadas: investiga la propiedad css list-style-type
+- Ordenadas: la propiedad type
 
 ## Ejercicio 4: tablas
+Crea una página html para que muestre una tabla como la siguiente:
 
-Próximamente...
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/828efd18-8ef6-4353-b98e-8135a256ba4d)
+
+**Pistas:**
+- Probad a usar la propiedad padding de los td y th.
+- Mirad la diferencia al poner un texto en un td y poner el mismo texto en un th ¿cuál centra?
+- Por otro lado si usáis td, probad con la propiedad text-align: center que hemos en el ejercicio de centrado de imágenes.
+
