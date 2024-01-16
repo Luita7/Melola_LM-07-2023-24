@@ -25,7 +25,7 @@ Crea una página html para que se muestren unas listas como las siguientes:
 
 **Pistas:** para cambiar los marcadores de las listas:
 - Desordenadas: investiga la propiedad css list-style-type
-- Ordenadas: la propiedad type
+- Ordenadas: el atributo type
 
 ## Ejercicio 4: tablas
 Crea una página html para que muestre una tabla como la siguiente:
