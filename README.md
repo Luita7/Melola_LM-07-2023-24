@@ -8,6 +8,8 @@
 
 https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
 
+https://html5test.opensuse.org/
+
 ## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/LM-00-2023-24)
 
