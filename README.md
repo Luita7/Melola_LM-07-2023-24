@@ -2,6 +2,12 @@
 
 ![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/666088ae-93d8-4bb2-9a6d-ee2cec9f470f)
 
+## Herramientas de entorno desarrollador
+
+![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/be23d084-2710-4f30-a777-455b41090427)
+
+https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+
 ## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/LM-00-2023-24)
 
