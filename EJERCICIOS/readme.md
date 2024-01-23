@@ -42,3 +42,13 @@ Crea una página html que muestre el siguiente formulario:
 
 ![image](https://github.com/profeMelola/LM-07-2023-24/assets/91023374/42bd1968-b73e-411f-8f5f-aeb7ebb5ab38)
 
+### Añade al formulario las siguientes condiciones:
+
+- Nombre, apellido, dni: obligatorios
+- Añadir botón de reset
+- El C.P debe ser de 5 dígitos
+- Cambiar el estilo de los campos inválidos (cuando se validan). Recordad selector :invalid
+- El DNI debe tener 8 dígitos y una letra (atributo pattern con la expresión regular)
+- El campo dirección no puede superar 50 caracteres.
+- Añadir un botón SALUDAR que al hacer clic en él muestre un mensaje diciendo "Hola!!"  (atributo onclick="alert('Hola')"  )
+
