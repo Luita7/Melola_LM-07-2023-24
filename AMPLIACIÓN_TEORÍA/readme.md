@@ -6,7 +6,7 @@ https://developer.mozilla.org/es/docs/Web/HTML/Element
 
 https://allthetags.com/
 
-# Atributo target de las imágenes
+# Atributo target de los enlaces (<A>)
 
 Posibles valores:
 
