@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Ejercicio práctico con tablas</title>
+
+    <style>
+      header{
+        width: 800px;
+        height: 200px;
+        background-color: aqua;
+        margin: 0px auto;
+        
+      }
+        main{
+            width: 800px;
+            height: 800px;
+            background: pink;
+            margin: 40px auto;
+            /*margin: 10px 10px 10px 10px;*/
+            
+        }
+
+        /*body{*/
+          /*text-align: center;*/ /*cambia a centrado todas las etiquetas de texto*/
+        /*}*/
+
+        
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            border-collapse: collapse;
+            
+            margin: 0px auto; /*solo se centraría la tabla*/
+        }
+
+        th,
+        td {
+            border: 1px solid rgb(59, 22, 137);
+            padding: 20px;
+        }
+
+        td.negroCentrado {
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>Probando con contenedores</h1>
+    </header>
+    <main>
+      <h1>Ejercicio práctico con Tablas</h1>
+
+      <table>
+        <caption>
+          Mi ejercicio de tabla
+        </caption>
+        <thead>
+          <tr>
+            <th></th>
+            <th colspan="3"><img src="img/120_ipod.png" /></th>
+            <th colspan="2"><img src="img/100_ipod.png" width="100px" /></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="negroCentrado">Capacidad</td>
+            <td style="font-weight: bold; text-align: center">
+              <p>2GB</p>
+            </td>
+            <td>
+              <p>4GB</p>
+            </td>
+            <td>
+              <p>8GB</p>
+            </td>
+            <td>
+              <p>32GB</p>
+            </td>
+            <td>
+              <p>2GB</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="negroCentrado">Colores</td>
+            <td class="negroCentrado">Blanco</td>
+            <td>
+              <ul>
+                <li>Negro</li>
+                <li>Rosa</li>
+                <li>Dorado</li>
+              </ul>
+            </td>
+            <td class="negroCentrado">Negro</td>
+            <td colspan="2">
+              <ul>
+                <li>Negro</li>
+                <li>Blanco</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td class="negroCentrado">Pantalla</td>
+            <td class="negroCentrado" colspan="3">3 pulgadas</td>
+            <td class="negroCentrado" colspan="2">7 pulgadas</td>
+          </tr>
+          <tr>
+            <td class="negroCentrado" rowspan="2">Tiempo de Carga</td>
+            <td class="negroCentrado" colspan="3" rowspan="2">1 hora</td>
+            <td class="negroCentrado" colspan="2">5 horas</td>
+          </tr>
+          <tr>
+            <td class="negroCentrado" colspan="2">30 minutos para 75%</td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>

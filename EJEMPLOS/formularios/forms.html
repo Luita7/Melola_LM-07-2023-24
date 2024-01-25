@@ -14,7 +14,7 @@
 
         <p>
             <label for="nombre">Nombre:</label>
-            <input type="text" name="nombre" />
+            <input type="text" name="nombre" maxlength="10"/>
         </p>
 
         <p>
@@ -54,11 +54,16 @@
 
             <p>
                 <label for="provincia">Provincia</label>
-                <select name="provincia">
+                <select name="provincia" multiple>
                     <optgroup label="Aragon">
                         <option value="Z">Zaragoza</option>
                         <option>Huesca</option>
                         <option selected>Teruel</option>
+                    </optgroup>
+                    <optgroup label="Castilla la Mancha">
+                        <option value="C">Cuenca</option>
+                        <option>Guada</option>
+                        <option selected>Albacete</option>
                     </optgroup>
 
                 </select>
