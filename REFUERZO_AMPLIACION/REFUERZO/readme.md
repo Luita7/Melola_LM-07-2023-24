@@ -2,3 +2,9 @@
 
 # Aprendizaje activo: Crea tu primera tabla
 https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics#aprendizaje_activo_crea_tu_primera_tabla
+
+# Aprendizaje activo: encabezados de tabla
+https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics#aprendizaje_activo_encabezados_de_tabla
+
+# Aprendizaje activo: colgroup y col
+https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics#aprendizaje_activo_colgroup_y_col
